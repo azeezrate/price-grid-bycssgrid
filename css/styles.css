@@ -130,7 +130,7 @@ padding: 10px 0px;
     font-size: 15px;
 }
 
-@media all and (max-width: 375px){
+@media all and (max-width: 500px){
     .pricing-container {
         display: flex;
         flex-direction: column;
