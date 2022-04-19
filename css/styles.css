@@ -140,12 +140,15 @@ padding: 10px 0px;
 
     .pricing-container .join-us{
         border-radius: 0px;
+        order: 0;
     }
     .pricing-container .subscription{
         border-radius: 0px;
+        order: 2;
     }
     .pricing-container .why-us{
         border-radius: 0px;
+        order: 1;
     }
 
 
