@@ -135,6 +135,7 @@ padding: 10px 0px;
         display: flex;
         flex-direction: column;
         box-shadow: none;
+        padding: 0px 20px;
     }
 
     .pricing-container .join-us{
